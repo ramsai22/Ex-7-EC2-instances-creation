@@ -2,16 +2,6 @@
 
 ## **Aim**
 To set up and launch an Amazon EC2 instance, providing on-demand computing services with flexible configurations for application deployment.
-
-## **Objectives**
-1. **Log into AWS**: Access the AWS Management Console to create and manage resources.
-2. **Launch EC2 Instance**: Configure the required instance parameters, including OS, storage, instance type, and network settings.
-3. **Create Key Pair**: Generate a secure SSH key pair for EC2 access.
-4. **Configure Network**: Adjust the instance’s VPC, subnets, and security groups as needed.
-5. **Connect to Instance**: Use SSH to establish a connection to the EC2 instance.
-6. **Automate EC2 Instance Creation**: Set up an Ansible playbook to automate the instance setup.
-7. **Monitor Instance State**: Track instance states (running, stopped, terminated) and utilize AWS CloudWatch for performance monitoring.
-
 ---
 ### Name: paida ram sai
 ### Reg no: 212223110034
